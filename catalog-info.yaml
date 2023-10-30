@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ParsApp"
+  description: "creating app to test grafana"
+  annotations:
+    github.com/project-slug: Puuurcy/GrafanaTest
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/team-par"

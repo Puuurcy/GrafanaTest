@@ -1,0 +1,8 @@
+site_name: "ParsApp"
+site_description: "creating app to test grafana"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
