@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: Puuurcy/GrafanaTest
     backstage.io/techdocs-ref: dir:.
+    grafana/dashboard-selector: demo
 spec:
   type: website
   lifecycle: experimental
